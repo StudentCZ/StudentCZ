@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I AM CHAO ZHOU</h1>
+<h1 align="center">Hi There 👋 I Am Chao Zhou</h1>
 
 <!--
 **StudentCZ/StudentCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
