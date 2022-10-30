@@ -11,7 +11,7 @@
 
 - 🧑🏻‍🎓 I'm currently open for hire.
 - 🔭 I’m currently working on my projects
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python,AWS and Typescript
 - 🤔 I’m looking for help with becoming a better software engineer
 - ⚡ Fun fact: When I am not coding, I enjoy casually following the NBA, gaming news and watching anime
 
@@ -21,8 +21,10 @@
 
 <strong>Core</strong>
 <br/>
-<br/>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<strong>Library & Frameworks</strong>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <!--
 **StudentCZ/StudentCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
