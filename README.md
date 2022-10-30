@@ -16,7 +16,7 @@
 - ⚡ Fun fact: When I am not coding, I enjoy casually following the NBA, gaming news and watching anime
 
 <div align='center'>
-<h2 >Technical Skills/h2>
+<h3 >Technical Skills</h3>
 
   </div>
 <!--
