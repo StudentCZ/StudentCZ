@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋 I Am Chao Zhou</h1>
 
-<h3> Full Stack Engineer></h3>
+<h3 align='center'> Full Stack Engineer</h3>
 
 
 <!--
