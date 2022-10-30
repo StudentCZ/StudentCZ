@@ -18,7 +18,9 @@
 <div align='center'>
 <h3 >Technical Skills</h3>
   </div>
-  <hr/>
+<span>Core</span>
+<br/>
+Hi
 <div>
 
 </div>
