@@ -2,9 +2,12 @@
 
 <h3 align='center'> Full Stack Engineer</h3>
 
+<div align='center'>
 <a href='https://medium.com/@Chao.Zhou' target="_blank"><img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' /></a>
 
 <a hre='https://www.linkedin.com/in/chao-zhou8/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
+
+</div>
 
 <!--
 **StudentCZ/StudentCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
