@@ -2,7 +2,7 @@
 
 <h3 align='center'> Full Stack Engineer</h3>
 
-<div align="middle"'>
+<div align="middle" float='left'>
                 
 <a href='https://medium.com/@Chao.Zhou' target="_blank"><img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' /></a>
 
@@ -10,9 +10,7 @@
 
 </div>
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
 
 <!--
 **StudentCZ/StudentCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
