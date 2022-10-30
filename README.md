@@ -18,9 +18,8 @@
 <div align='center'>
 <h3 >Technical Skills</h3>
   </div>
-<span>Core</span>
-<br/>
-Hi
+<strong>Core</strong>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <div>
 
 </div>
