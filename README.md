@@ -42,9 +42,11 @@
 
 ## <p align='center'>My Github Stats</p>
 
-![GithubStat1](https://github-readme-stats.vercel.app/api?username=StudentCZ) ![GithubStat2](https://github-readme-streak-stats.herokuapp.com/?user=StudentCZ) ![GithubStat3](https://github-readme-stats.vercel.app/api/top-langs/?username=StudentCZ)
+![GithubStat1](https://github-readme-stats.vercel.app/api?username=StudentCZ) ![GithubStat2](https://github-readme-streak-stats.herokuapp.com/?user=StudentCZ) 
 <!--
 **StudentCZ/StudentCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![GithubStat3](https://github-readme-stats.vercel.app/api/top-langs/?username=StudentCZ)
 
 Here are some ideas to get you started:
 
