@@ -18,7 +18,9 @@
 <div align='center'>
 <h3 >Technical Skills</h3>
   </div>
-(---)
+Some text!
+---
+Next chapter or something!
 
 <strong>Core</strong>
 
