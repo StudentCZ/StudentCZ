@@ -42,7 +42,7 @@
 
 ## <p align='center'>My Github Stats</p>
 
-<img src='https://github-readme-stats.vercel.app/api?username={https://github.com/StudentCZ}'/>
+<img src='https://github-readme-stats.vercel.app/api?username=StudentCZ'/>
 <!--
 **StudentCZ/StudentCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
