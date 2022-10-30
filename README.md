@@ -2,7 +2,7 @@
 
 <h3 align='center'> Full Stack Engineer</h3>
 
-<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white'/>
+<a href='https://medium.com/@Chao.Zhou'><img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white'/></a>
 
 
 <!--
