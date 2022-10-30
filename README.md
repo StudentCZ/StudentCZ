@@ -18,7 +18,7 @@
 <div align='center'>
 <h3 >Technical Skills</h3>
   </div>
-  ***
+***
 
 <strong>Core</strong>
 
