@@ -15,7 +15,10 @@
 - 🤔 I’m looking for help with becoming a better software engineer
 - ⚡ Fun fact: When I am not coding, I enjoy casually following the NBA, gaming news and watching anime
 
+<div align='center'>
+<h2 >Technical Skills/h2>
 
+  </div>
 <!--
 **StudentCZ/StudentCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
