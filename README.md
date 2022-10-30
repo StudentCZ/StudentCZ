@@ -40,9 +40,14 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## <p align='center'>My Github Stats</p>
+## <div align='center'>My Github Stats</div>
+
+<div align='center'>
 
 ![GithubStat1](https://github-readme-stats.vercel.app/api?username=StudentCZ) ![GithubStat2](https://github-readme-streak-stats.herokuapp.com/?user=StudentCZ) 
+  
+</div>  
+  
 <!--
 **StudentCZ/StudentCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
