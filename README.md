@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋 I Am Chao Zhou</h1>
 
-<h3 align='center'> Full Stack Engineer</h3>
+<h2 align='center'> Full Stack Engineer</h2>
 
 <div align='center'>
 
@@ -16,7 +16,7 @@
 - ⚡ Fun fact: When I am not coding, I enjoy casually following the NBA, gaming news and watching anime
 
 <div align='center'>
-  <h3>Technical Skills</h3>
+  <h2>Technical Skills</h2>
   </div>
 
 <strong>Core</strong>
@@ -40,7 +40,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### <p align='center'>My Github Stats</p>
+## <p align='center'>My Github Stats</p>
 
 Jello
 <!--
