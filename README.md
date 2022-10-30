@@ -17,12 +17,8 @@
 
 <div align='center'>
 <h3 >Technical Skills</h3>
+  (---)
   </div>
-Some text!
----
-Next chapter or something!
-
-<strong>Core</strong>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
