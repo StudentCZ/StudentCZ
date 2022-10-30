@@ -17,8 +17,11 @@
 
 <div align='center'>
 <h3 >Technical Skills</h3>
-
   </div>
+  <hr/>
+<div>
+
+</div>
 <!--
 **StudentCZ/StudentCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
