@@ -8,9 +8,12 @@
 
 </div>
 
+
 - 🧑🏻‍🎓 I'm currently open for hire.
 - 🔭 I’m currently working on my projects
 - 🌱 I’m currently learning Python
+- 🤔 I’m looking for help with becoming a better software engineer
+- ⚡ Fun fact: When I am not coding, I enjoy casually following the NBA, gaming news and watching anime,
 
 
 <!--
