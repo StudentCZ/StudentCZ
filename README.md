@@ -4,7 +4,7 @@
 
 <div align='center'>
 
-  <a href='https://www.linkedin.com/in/chao-zhou8/' target=_blank>![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  <a href='https://medium.com/@Chao.Zhou' target="_blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+  <a href='https://www.linkedin.com/in/chao-zhou8/' target=_blank>![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  <a href='https://medium.com/@Chao.Zhou' target="_blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>  <a href='https://chaozhou.netlify.app/'>![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</>
 
                 
 
