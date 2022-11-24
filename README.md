@@ -46,10 +46,8 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3>ShouldaCoulda</h3>
-
-![](https://github.com/StudentCZ/my-website/blob/main/src/assets/images/P1.png)
-
+      <h3>ShouldaCoulda</h3> 
+      ![](https://github.com/StudentCZ/my-website/blob/main/src/assets/images/P1.png)
   <p>
   <a href="https://github.com/shouldaCoulda/shouldaCoulda" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
@@ -57,13 +55,10 @@
     <a href="https://shouldacoulda.fly.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white"></a>
       </p>
         <p><strong> HTML, CSS, JavaScript, React, Firebase, ChartJS - This app is created to help users be more financial aware of there frivolous spending habits. It visualize their data into charts.</strong></p>
-   
-    
+    </td>
     <td width="50%" valign="top">
-      <h3>AnimeGo</h3>
-
-![](https://github.com/StudentCZ/my-website/blob/main/src/assets/images/P2.png)
-
+      <h3>AnimeGo</h3> 
+      ![](https://github.com/StudentCZ/my-website/blob/main/src/assets/images/P2.png)
   <p>
   <a href="https://github.com/StudentCZ/Animego" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
@@ -75,7 +70,6 @@
         <p><strong>HTML,CSS,JavaScript,React,MaterialUI - This is an anime search database created with the Jikan API. The API is connected real time to MyAnimeList.</strong></p>
     </td>
   </tr>
-  
 </table>
 </section>
 
