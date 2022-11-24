@@ -42,13 +42,13 @@
 
 ## <div align='center'>Projects </div>
 
-<div align='center'>
+
       | Syntax | Description |
-      | --- | ----------- |
+      | :---: | :---: |
       | Header | Title |
       | Paragraph | Text |
   
- </div>
+
 
 ## <div align='center'>My Github Stats</div>
 
