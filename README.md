@@ -44,10 +44,46 @@
 
 <div align="center">
 
-| ShouldaCoulda<br><br> <img src="https://chaozhou.dev/static/media/P1.8bc4938d5239a4dc2b5a.png" width="300"> <br><br> [![Code](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shouldaCoulda/shouldaCoulda) [![Website](https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white)](https://shouldacoulda.fly.dev/) <br><br> HTML, CSS, JavaScript, React, Firebase, ChartJS <p>This app is created to help users be more financial aware of there frivolous spending habits. It visualize their data into charts.</p> | AnimeGo<br><br> <img src="https://chaozhou.dev/static/media/P2.3f8f7d03367441d628b5.png" width="300"> <br><br> [![Code](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StudentCZ/Animego) [![Website](https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white)](https://animego1.netlify.app/) <br><br> HTML,CSS,JavaScript,React,MaterialUI <p>This is an anime search database created with the Jikan API. The API is connected real time to MyAnimeList.</p>   
+| ShouldaCoulda<br><br> <img src="https://chaozhou.dev/static/media/P1.8bc4938d5239a4dc2b5a.png" width="300"> <br><br> [![Code](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)]() [![Website](https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white)]() <br><br> HTML, CSS, JavaScript, React, Firebase, ChartJS <p>This app is created to help users be more financial aware of there frivolous spending habits. It visualize their data into charts.</p> | AnimeGo<br><br> <img src="https://chaozhou.dev/static/media/P2.3f8f7d03367441d628b5.png" width="300"> <br><br> [![Code](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StudentCZ/Animego) [![Website](https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white)](https://animego1.netlify.app/) <br><br> HTML,CSS,JavaScript,React,MaterialUI <p>This is an anime search database created with the Jikan API. The API is connected real time to MyAnimeList.</p>   
 |----------|----------|  
   
+  
+  
 </div>
+
+<section align="center">
+<h2>Projects</h2>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ShouldaCoulda</h3>
+
+![](https://chaozhou.dev/static/media/P1.8bc4938d5239a4dc2b5a.png)
+
+  <p>
+  <a href="https://github.com/shouldaCoulda/shouldaCoulda" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+    <a href="https://shouldacoulda.fly.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white"></a>
+      </p>
+        <p><strong> React, SCSS, Node, Express, PostgreSQL, Storybook, Jest, and Cypress</strong> – Scheduler is a full-stack, single-page appointment scheduling tool helping students connect with mentors.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Wi-Fi Web and Voice Remote</h3>
+
+![](https://user-images.githubusercontent.com/101907461/198857975-40d67592-6b41-48d0-960b-b086a7230496.jpg)
+
+  <p>
+  <a href="https://github.com/chunloy/wifi-web-voice-remote" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+      </p>
+        <p><strong>Developed in the Arduino IDE using the ESP8266 and infrared (IR) libraries</strong> – Created a device to upgrade an old tv with smart capabilities using a WIFI-enabled microcontroller and IR sensors.</p>
+    </td>
+  </tr>
+  
+</table>
+</section>
 
 ## <div align='center'>My Github Stats</div>
 
