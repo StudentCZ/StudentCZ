@@ -44,7 +44,7 @@
 
 <div align="center">
 
-| ShouldaCoulda<br> <img src="https://chaozhou.dev/static/media/P1.8bc4938d5239a4dc2b5a.png" width="200"> | AnimeGo |  
+| ShouldaCoulda<br> <img src="https://chaozhou.dev/static/media/P1.8bc4938d5239a4dc2b5a.png" width="300"> | AnimeGo |  
 |----------|:-------------:|
 
 </div>
