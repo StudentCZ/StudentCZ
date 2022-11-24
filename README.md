@@ -77,7 +77,7 @@
   <a href="https://github.com/StudentCZ/Animego" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-    <a></a>
+    <a href="https://animego1.netlify.app/" target="_blank"></a>
       </p>
         <p><strong>HTML,CSS,JavaScript,React,MaterialUI This is an anime search database created with the Jikan API. The API is connected real time to MyAnimeList.</strong></p>
     </td>
