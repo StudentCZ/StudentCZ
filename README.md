@@ -57,7 +57,7 @@
     <a href="https://shouldacoulda.fly.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white"></a>
       </p>
         <p><strong> HTML, CSS, JavaScript, React, Firebase, ChartJS - This app is created to help users be more financial aware of there frivolous spending habits. It visualize their data into charts.</strong></p>
-    </td>
+   
     
     <td width="50%" valign="top">
       <h3>AnimeGo</h3>
