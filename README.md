@@ -40,12 +40,14 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## <div align='center'>Projects</div>
+## <div align='center'><p>Projects</p>
 
 | Syntax | Description |
 | --- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+  
+  </div>
 
 ## <div align='center'>My Github Stats</div>
 
