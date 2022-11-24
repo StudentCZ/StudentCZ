@@ -40,14 +40,6 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## <div align='center' width='200'>Projects </div>
-
-<div align="center">
-
-
-  
-  
-</div>
 
 <section align="center">
 <h2>Projects</h2>
