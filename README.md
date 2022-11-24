@@ -44,7 +44,7 @@
 
 <div align="center">
 
-| ShouldaCoulda<br> <img src="https://chaozhou.dev/static/media/P1.8bc4938d5239a4dc2b5a.png" width="500"> <br> [![Code](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shouldaCoulda/shouldaCoulda)| AnimeGo<br> <img src="https://chaozhou.dev/static/media/P2.e9ee3aa9df80f74ced41.png" width="500"> | <br> [![Code](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StudentCZ/Animego)  
+| ShouldaCoulda<br> <img src="https://chaozhou.dev/static/media/P1.8bc4938d5239a4dc2b5a.png" width="500"> <br> [![Code](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shouldaCoulda/shouldaCoulda)| AnimeGo<br> <img src="https://chaozhou.dev/static/media/P2.e9ee3aa9df80f74ced41.png" width="500"> <br> [![Code](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StudentCZ/Animego) |  
 |----------|:-------------:|
 
 </div>
