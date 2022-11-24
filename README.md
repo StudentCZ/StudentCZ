@@ -74,7 +74,7 @@
 ![](https://chaozhou.dev/static/media/P2.3f8f7d03367441d628b5.png)
 
   <p>
-  <a href="https://github.com/chunloy/wifi-web-voice-remote" target="_blank">
+  <a href="https://github.com/StudentCZ/Animego" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
       </p>
