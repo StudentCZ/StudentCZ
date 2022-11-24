@@ -61,7 +61,7 @@
     <td width="50%" valign="top">
       <h3>AnimeGo</h3>
 
-![](https://chaozhou.dev/static/media/P2.3f8f7d03367441d628b5.png)
+![](https://github.com/StudentCZ/my-website/blob/main/src/assets/images/P2.png)
 
   <p>
   <a href="https://github.com/StudentCZ/Animego" target="_blank">
