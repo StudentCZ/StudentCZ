@@ -44,7 +44,7 @@
 
 <div align="center">
 
-| ShouldaCoulda<br><br> <img src="https://chaozhou.dev/static/media/P1.8bc4938d5239a4dc2b5a.png" width="500"> <br><br> [![Code](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shouldaCoulda/shouldaCoulda) [![Website](https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white)](https://shouldacoulda.fly.dev/) <br><br> Hello | AnimeGo<br><br> <img src="https://chaozhou.dev/static/media/P2.e9ee3aa9df80f74ced41.png" width="500"> <br><br> [![Code](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StudentCZ/Animego) [![Website](https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white)](https://animego1.netlify.app/) <br><br> Hello |  
+| ShouldaCoulda<br><br> <img src="https://chaozhou.dev/static/media/P1.8bc4938d5239a4dc2b5a.png" width="500"> <br><br> [![Code](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shouldaCoulda/shouldaCoulda) [![Website](https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white)](https://shouldacoulda.fly.dev/) <br><br> HTML, CSS, JavaScript, React, Firebase, ChartJS, D3, MaterialUI | AnimeGo<br><br> <img src="https://chaozhou.dev/static/media/P2.e9ee3aa9df80f74ced41.png" width="500"> <br><br> [![Code](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StudentCZ/Animego) [![Website](https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white)](https://animego1.netlify.app/) <br><br> Hello |  
 |----------|:-------------:|  
   
 </div>
