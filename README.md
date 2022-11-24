@@ -48,7 +48,7 @@
     <td width="50%" valign="top">
       <h3>ShouldaCoulda</h3>
 
-<!-- ![](https://chaozhou.dev/static/media/P1.8bc4938d5239a4dc2b5a.png) -->
+![](https://chaozhou.dev/static/media/P1.8bc4938d5239a4dc2b5a.png)
 
   <p>
   <a href="https://github.com/shouldaCoulda/shouldaCoulda" target="_blank">
@@ -61,7 +61,7 @@
     <td width="50%" valign="top">
       <h3>AnimeGo</h3>
 
-<!-- ![](https://chaozhou.dev/static/media/P2.3f8f7d03367441d628b5.png) -->
+![](https://chaozhou.dev/static/media/P2.3f8f7d03367441d628b5.png)
 
   <p>
   <a href="https://github.com/StudentCZ/Animego" target="_blank">
