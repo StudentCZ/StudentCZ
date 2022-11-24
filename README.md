@@ -45,7 +45,7 @@
 <h2>Projects</h2>
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="50%" valign="top">
+    <td width="10%" valign="top">
       <h3>ShouldaCoulda</h3>
 
 ![](https://chaozhou.dev/static/media/P1.8bc4938d5239a4dc2b5a.png)
@@ -58,7 +58,7 @@
       </p>
         <p><strong> HTML, CSS, JavaScript, React, Firebase, ChartJS This app is created to help users be more financial aware of there frivolous spending habits. It visualize their data into charts.</strong></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="10%" valign="top">
       <h3>AnimeGo</h3>
 
 ![](https://chaozhou.dev/static/media/P2.3f8f7d03367441d628b5.png)
@@ -77,6 +77,8 @@
   
 </table>
 </section>
+
+<br>
 
 ## <div align='center'>My Github Stats</div>
 
