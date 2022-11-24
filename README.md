@@ -44,10 +44,9 @@
 
 <div align="center">
 
-| ShouldaCoulda 
-  ![title](Images/P1.png) | AnimeGo |  
+| ShouldaCoulda | AnimeGo |  
 |----------|:-------------:|
-
+|![title](Images/P1.png) | | |
 
 </div>
 
