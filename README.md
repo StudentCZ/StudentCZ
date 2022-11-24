@@ -97,7 +97,7 @@
     <img src="https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white">
     </a>
       </p>
-        <p><strong> React, SCSS, Node, Express, PostgreSQL, Storybook, Jest, and Cypress</strong> – Scheduler is a full-stack, single-page appointment scheduling tool helping students connect with mentors.</strong</p>
+        <p><strong> React, SCSS, Node, Express, PostgreSQL, Storybook, Jest, and Cypress – Scheduler is a full-stack, single-page appointment scheduling tool helping students connect with mentors.</strong</p>
     </td>
     <td width="50%" valign="top">
       <h3>Wi-Fi Web and Voice Remote</h3>
@@ -112,7 +112,7 @@
     <img src="https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white">
     </a>
       </p>
-        <p><strong>Developed in the Arduino IDE using the ESP8266 and infrared (IR) libraries</strong> – Created a device to upgrade an old tv with smart capabilities using a WIFI-enabled microcontroller and IR sensors.</strong></p>
+        <p><strong>Developed in the Arduino IDE using the ESP8266 and infrared (IR) libraries – Created a device to upgrade an old tv with smart capabilities using a WIFI-enabled microcontroller and IR sensors.</strong></p>
     </td>
   </tr>
   
