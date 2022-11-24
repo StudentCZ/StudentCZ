@@ -44,7 +44,7 @@
 
 <div align="center">
 
-| ShouldaCoulda <br> |![title](Images/P1.png) | AnimeGo |  
+| ShouldaCoulda<br> Hello | AnimeGo |  
 |----------|:-------------:|
 
 </div>
