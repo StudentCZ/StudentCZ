@@ -66,7 +66,7 @@
   </a>  
     <a href="https://shouldacoulda.fly.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white"></a>
       </p>
-        <p><strong> React, SCSS, Node, Express, PostgreSQL, Storybook, Jest, and Cypress</strong> – Scheduler is a full-stack, single-page appointment scheduling tool helping students connect with mentors.</p>
+        <p><strong> HTML, CSS, JavaScript, React, Firebase, ChartJS This app is created to help users be more financial aware of there frivolous spending habits. It visualize their data into charts.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Wi-Fi Web and Voice Remote</h3>
