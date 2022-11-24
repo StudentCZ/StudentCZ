@@ -71,7 +71,7 @@
     <td width="50%" valign="top">
       <h3>Wi-Fi Web and Voice Remote</h3>
 
-![](https://user-images.githubusercontent.com/101907461/198857975-40d67592-6b41-48d0-960b-b086a7230496.jpg)
+![](https://chaozhou.dev/static/media/P2.3f8f7d03367441d628b5.png)
 
   <p>
   <a href="https://github.com/chunloy/wifi-web-voice-remote" target="_blank">
