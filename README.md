@@ -43,10 +43,10 @@
 ## <div align='center'>Projects </div>
 
 <div align='center'>
-| Syntax | Description |
-| --- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+      | Syntax | Description |
+      | --- | ----------- |
+      | Header | Title |
+      | Paragraph | Text |
   
  </div>
 
