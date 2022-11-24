@@ -80,60 +80,6 @@
 
 <br>
 
-<section align="center">
-<h2>Latest Projects</h2>
-<table bordercolor="#66b2b2">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Scheduler</h3>
-
-![](https://user-images.githubusercontent.com/101907461/198912461-d302a858-0a79-4715-a114-9e8de5a9cc49.png)
-
-  <p>
-  <a href="https://github.com/chunloy/scheduler" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>  
-    <a href="https://animego1.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white">
-    </a>
-      </p>
-        <p><strong> React, SCSS, Node, Express, PostgreSQL, Storybook, Jest, and Cypress – Scheduler is a full-stack, single-page appointment scheduling tool helping students connect with mentors.</strong</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Wi-Fi Web and Voice Remote</h3>
-
-![](https://user-images.githubusercontent.com/101907461/198857975-40d67592-6b41-48d0-960b-b086a7230496.jpg)
-
-  <p>
-  <a href="https://github.com/chunloy/wifi-web-voice-remote" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>  
-    <a href="https://animego1.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white">
-    </a>
-      </p>
-        <p><strong>Developed in the Arduino IDE using the ESP8266 and infrared (IR) libraries – Created a device to upgrade an old tv with smart capabilities using a WIFI-enabled microcontroller and IR sensors.</strong></p>
-    </td>
-  </tr>
-  
-  <tr>
-<td width="50%" valign="top">
-      <h3>Desktop CNC Router</h3>
-
-![](https://user-images.githubusercontent.com/101907461/198864499-5bbf4c53-9ba6-46de-b318-ab3bd06fe02f.jpeg)
-
-  <p>
-  <a href="https://github.com/chunloy/desktop-cnc-router" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>  
-      </p>
-        <p><strong>An Iron Man themed desktop CNC router built using steel tubing and 3D printed components</strong> – Leverages a modified version of the Marlin platform to support for 3-axis milling.</p>
-    </td>
-    
-  </tr>
-</table>
-</section>
-
 
 ## <div align='center'>My Github Stats</div>
 
