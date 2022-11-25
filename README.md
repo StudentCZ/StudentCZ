@@ -44,11 +44,11 @@
 <section align="center">
 <h2>Projects</h2>
 <table bordercolor="#66b2b2">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>ShouldaCoulda</h3> 
+ <tr>
+   <td width="50%" valign="top">
+     <h3>ShouldaCoulda</h3> 
       
-![]()
+![](https://raw.githubusercontent.com/StudentCZ/my-website/main/src/assets/images/P1.png)
       
   <p>
   <a href="https://github.com/shouldaCoulda/shouldaCoulda" target="_blank">
@@ -58,10 +58,10 @@
       </p>
         <p><strong> HTML, CSS, JavaScript, React, Firebase, ChartJS - This app is created to help users be more financial aware of there frivolous spending habits. It visualize their data into charts.</strong></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>AnimeGo</h3> 
+   <td width="50%" valign="top">
+     <h3>AnimeGo</h3> 
       
-![]()
+![](https://raw.githubusercontent.com/StudentCZ/my-website/main/src/assets/images/P2.png)
       
   <p>
   <a href="https://github.com/StudentCZ/Animego" target="_blank">
