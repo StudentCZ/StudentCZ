@@ -59,7 +59,6 @@
     </td>
    <td width="50%" valign="top">
      <h3>AnimeGo</h3> 
-      
 ![](https://raw.githubusercontent.com/StudentCZ/my-website/main/src/assets/images/P2.png)
       
   <p>
@@ -75,10 +74,7 @@
   </tr>
 </table>
 </section>
-
 <br>
-
-
 ## <div align='center'>My Github Stats</div>
 
 
