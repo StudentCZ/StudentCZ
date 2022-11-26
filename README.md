@@ -47,7 +47,6 @@
  <tr>
    <td width="50%" valign="top">
      <h3>ShouldaCoulda</h3> 
-      
 ![](https://raw.githubusercontent.com/StudentCZ/my-website/main/src/assets/images/P1.png)
       
   <p>
