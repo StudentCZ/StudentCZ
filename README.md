@@ -10,7 +10,7 @@
 
 
 - 🧑🏻‍🎓 I'm currently open for hire.
-- 🔭 I’m currently working on my projects
+- 🔭 I’m currently re-learning the PERN stack and building out a fullstack application with it.
 - 🌱 I’m currently learning Python, AWS and SQL
 - 🤔 I’m looking for help with becoming a better software engineer
 - ⚡ Fun fact: When I am not coding, I enjoy casually following the NBA, gaming news and watching anime
