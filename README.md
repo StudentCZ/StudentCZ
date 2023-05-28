@@ -83,7 +83,8 @@
 
 <div align='center'>
 
-<! --![GithubStat1](https://github-readme-stats.vercel.app/api?username=StudentCZ) --> ![GithubStat2](https://github-readme-streak-stats.herokuapp.com/?user=StudentCZ) 
+<!--[GithubStat1](https://github-readme-stats.vercel.app/api?username=StudentCZ)--> 
+![GithubStat2](https://github-readme-streak-stats.herokuapp.com/?user=StudentCZ) 
   
 </div>  
   
